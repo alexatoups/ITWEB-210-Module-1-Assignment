@@ -1,0 +1,41 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alarm {
+    width: 100px;
+    height: 100px;
+}
+.cheese {
+    width: 100px;
+    height: 100px;
+}
+.eggs {
+    width: 100px;
+    height: 100px;
+}
+.home {
+    width: 100px;
+    height: 100px;
+}
+.milk {
+    width: 100px;
+    height: 100px;
+}
+.schedule {
+    display: flex;
+    justify-content: center;
+    border: 1;
+}
